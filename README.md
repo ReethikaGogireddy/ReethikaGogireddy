@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍🎓 Master's computer science student at ASU.<br>🏢 Interned at SAT InfoTech.<br>💻 worked as freelancer. <br>✨ My hobbies include drawing. <br> - 🔭 I’m currently working on game development.
+👩🏻‍🎓 Master's computer science student at ASU.<br>🏢 Interned at SAT InfoTech.<br>💻 worked as freelancer. <br>✨ My hobbies include drawing. <br> - 🔭 I’m currently working on a Bake a Cake game.
 <br> 🌱 I’m currently learning Three.js and drawing sprites for game development.
 
 
