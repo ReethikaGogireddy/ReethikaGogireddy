@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍🎓 Master's computer science student at ASU. <br>✨ My hobbies include drawing. <br> 🔭 I’m currently working on a Bake a Cake game.
+👩🏻‍🎓 Master's computer science student at ASU. Graduated from Bachelor of Technology in Computer Science in 2024<br>✨ My hobbies include drawing. <br> 🔭 I’m currently working on a Bake a Cake game.
 <br> 🌱 I’m currently learning Three.js and drawing sprites for game development.
 
 
